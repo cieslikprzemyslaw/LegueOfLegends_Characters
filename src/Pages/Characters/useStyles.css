@@ -1,0 +1,14 @@
+.card-section{
+    max-width: 1440px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+
+.Card {
+    max-width: 345px;
+}
+.CardMedia{
+    height: 560px;
+}

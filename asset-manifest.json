@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LegueOfLegends_Characters/static/css/main.7ce30feb.chunk.css",
+    "main.js": "/LegueOfLegends_Characters/static/js/main.a02bfd34.chunk.js",
+    "main.js.map": "/LegueOfLegends_Characters/static/js/main.a02bfd34.chunk.js.map",
+    "runtime-main.js": "/LegueOfLegends_Characters/static/js/runtime-main.8a51686a.js",
+    "runtime-main.js.map": "/LegueOfLegends_Characters/static/js/runtime-main.8a51686a.js.map",
+    "static/js/2.78f38547.chunk.js": "/LegueOfLegends_Characters/static/js/2.78f38547.chunk.js",
+    "static/js/2.78f38547.chunk.js.map": "/LegueOfLegends_Characters/static/js/2.78f38547.chunk.js.map",
+    "index.html": "/LegueOfLegends_Characters/index.html",
+    "precache-manifest.e255c35a557aafb88f2568c33e94cc1d.js": "/LegueOfLegends_Characters/precache-manifest.e255c35a557aafb88f2568c33e94cc1d.js",
+    "service-worker.js": "/LegueOfLegends_Characters/service-worker.js",
+    "static/css/main.7ce30feb.chunk.css.map": "/LegueOfLegends_Characters/static/css/main.7ce30feb.chunk.css.map",
+    "static/js/2.78f38547.chunk.js.LICENSE.txt": "/LegueOfLegends_Characters/static/js/2.78f38547.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a51686a.js",
+    "static/js/2.78f38547.chunk.js",
+    "static/css/main.7ce30feb.chunk.css",
+    "static/js/main.a02bfd34.chunk.js"
+  ]
+}

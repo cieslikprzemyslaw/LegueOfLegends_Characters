@@ -10,7 +10,7 @@ const Characters = () => {
     const [isLoaded, setIsLoaded] = useState(false)
 
 
-    const url = 'http://ddragon.leagueoflegends.com/cdn/10.15.1/data/en_GB/champion.json';
+    const url = 'http://ddragon.leagueoflegends.com/cdn/10.19.1/data/en_GB/champion.json';
 
     useEffect(() => {
         fetch(url)
@@ -31,12 +31,12 @@ const Characters = () => {
                 return (
                     <Card className="Card" key={champion.id}>
                         <CardActionArea
-                         component={Link} to={`/character/${champion.id}`}
+                            component={Link} to={`/character/${champion.id}`}
                         >
                             <CardMedia
-                            className="CardMedia"
-                            image={imageUrl}
-                            title={champion.name}
+                                className="CardMedia"
+                                image={imageUrl}
+                                title={champion.name}
                             />
                             <CardContent>
                                 <Typography gutterBottom variant="h4" component="h3">

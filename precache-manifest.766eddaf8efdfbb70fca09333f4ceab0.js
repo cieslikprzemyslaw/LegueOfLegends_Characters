@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "deafb815d2e5736431b220db194b12ba",
+    "revision": "9f2e936ebaeeba19c650b2bdf7d3db54",
     "url": "/LegueOfLegends_Characters/index.html"
   },
   {
-    "revision": "3df25aa4063b1ec6953b",
+    "revision": "c3458153ac5752105439",
     "url": "/LegueOfLegends_Characters/static/css/main.7ce30feb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LegueOfLegends_Characters/static/js/2.78f38547.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3df25aa4063b1ec6953b",
-    "url": "/LegueOfLegends_Characters/static/js/main.a02bfd34.chunk.js"
+    "revision": "c3458153ac5752105439",
+    "url": "/LegueOfLegends_Characters/static/js/main.2952fecc.chunk.js"
   },
   {
     "revision": "6f74d67740934fdd4653",
